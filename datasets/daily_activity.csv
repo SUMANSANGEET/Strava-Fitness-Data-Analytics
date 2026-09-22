@@ -1,0 +1,941 @@
+TotalSteps,Calories,ActivityDate,DayOfWeek,ActivityTier,SedentaryMinutes
+0,0,2016-05-12,Thursday,Sedentary (<5k),1440
+1510,1344,2016-04-15,Friday,Sedentary (<5k),1344
+2916,1435,2016-04-19,Tuesday,Sedentary (<5k),1299
+4974,1446,2016-04-20,Wednesday,Sedentary (<5k),1289
+4026,1470,2016-04-22,Friday,Sedentary (<5k),1241
+2826,1402,2016-04-26,Tuesday,Sedentary (<5k),1300
+2759,1401,2016-04-28,Thursday,Sedentary (<5k),1320
+2390,1404,2016-04-29,Friday,Sedentary (<5k),1290
+2100,1334,2016-05-03,Tuesday,Sedentary (<5k),1344
+2193,1368,2016-05-04,Wednesday,Sedentary (<5k),1322
+2470,1370,2016-05-05,Thursday,Sedentary (<5k),1323
+1727,1341,2016-05-06,Friday,Sedentary (<5k),1338
+2104,1474,2016-05-07,Saturday,Sedentary (<5k),1258
+3427,1427,2016-05-08,Sunday,Sedentary (<5k),1288
+1732,1328,2016-05-09,Monday,Sedentary (<5k),1349
+2969,1393,2016-05-10,Tuesday,Sedentary (<5k),1301
+3134,1359,2016-05-11,Wednesday,Sedentary (<5k),1328
+2971,1002,2016-05-12,Thursday,Sedentary (<5k),890
+2436,2430,2016-04-20,Wednesday,Sedentary (<5k),1315
+1223,2140,2016-04-21,Thursday,Sedentary (<5k),1402
+3673,2344,2016-04-22,Friday,Sedentary (<5k),1354
+3321,2413,2016-04-24,Sunday,Sedentary (<5k),1351
+3580,2497,2016-04-25,Monday,Sedentary (<5k),1337
+3032,2489,2016-04-27,Wednesday,Sedentary (<5k),1322
+3176,2498,2016-04-29,Friday,Sedentary (<5k),1193
+3758,2580,2016-05-02,Monday,Sedentary (<5k),682
+2309,2222,2016-05-04,Wednesday,Sedentary (<5k),1388
+4363,2463,2016-05-05,Thursday,Sedentary (<5k),1341
+1329,1276,2016-05-11,Wednesday,Sedentary (<5k),713
+4929,1860,2016-04-13,Wednesday,Sedentary (<5k),1192
+3844,1725,2016-04-15,Friday,Sedentary (<5k),527
+3414,1657,2016-04-16,Saturday,Sedentary (<5k),1293
+4525,1793,2016-04-17,Sunday,Sedentary (<5k),1231
+4597,1814,2016-04-18,Monday,Sedentary (<5k),1211
+197,1366,2016-04-19,Tuesday,Sedentary (<5k),1430
+8,1349,2016-04-20,Wednesday,Sedentary (<5k),1439
+3570,1645,2016-04-23,Saturday,Sedentary (<5k),1301
+0,1347,2016-04-24,Sunday,Sedentary (<5k),1440
+0,1347,2016-04-25,Monday,Sedentary (<5k),1440
+0,1347,2016-04-26,Tuesday,Sedentary (<5k),1440
+4,1348,2016-04-27,Wednesday,Sedentary (<5k),1439
+4920,1856,2016-04-29,Friday,Sedentary (<5k),1082
+4014,1763,2016-04-30,Saturday,Sedentary (<5k),218
+2573,1541,2016-05-01,Sunday,Sedentary (<5k),585
+0,1348,2016-05-02,Monday,Sedentary (<5k),1440
+4059,1742,2016-05-03,Tuesday,Sedentary (<5k),1256
+2080,1549,2016-05-04,Wednesday,Sedentary (<5k),1353
+2237,1589,2016-05-05,Thursday,Sedentary (<5k),1320
+44,1351,2016-05-06,Friday,Sedentary (<5k),1438
+0,1347,2016-05-07,Saturday,Sedentary (<5k),1440
+0,1347,2016-05-08,Sunday,Sedentary (<5k),1440
+0,1347,2016-05-09,Monday,Sedentary (<5k),1440
+0,1347,2016-05-10,Tuesday,Sedentary (<5k),1440
+0,1347,2016-05-11,Wednesday,Sedentary (<5k),1440
+0,665,2016-05-12,Thursday,Sedentary (<5k),711
+678,2220,2016-04-12,Tuesday,Sedentary (<5k),734
+356,2151,2016-04-13,Wednesday,Sedentary (<5k),986
+2163,2383,2016-04-14,Thursday,Sedentary (<5k),1292
+980,2221,2016-04-15,Friday,Sedentary (<5k),941
+0,2064,2016-04-16,Saturday,Sedentary (<5k),1440
+0,2063,2016-04-17,Sunday,Sedentary (<5k),1440
+244,2111,2016-04-18,Monday,Sedentary (<5k),1423
+0,2063,2016-04-19,Tuesday,Sedentary (<5k),1440
+0,2063,2016-04-20,Wednesday,Sedentary (<5k),1440
+0,2064,2016-04-21,Thursday,Sedentary (<5k),1440
+149,2093,2016-04-22,Friday,Sedentary (<5k),1430
+2945,2499,2016-04-23,Saturday,Sedentary (<5k),1295
+2090,2324,2016-04-24,Sunday,Sedentary (<5k),1358
+152,2100,2016-04-25,Monday,Sedentary (<5k),1303
+3761,2638,2016-04-26,Tuesday,Sedentary (<5k),1058
+0,2063,2016-04-27,Wednesday,Sedentary (<5k),1440
+1675,2351,2016-04-28,Thursday,Sedentary (<5k),1167
+0,2063,2016-04-29,Friday,Sedentary (<5k),1440
+0,2064,2016-04-30,Saturday,Sedentary (<5k),1440
+2704,2411,2016-05-01,Sunday,Sedentary (<5k),1355
+3790,2505,2016-05-02,Monday,Sedentary (<5k),1322
+1326,2195,2016-05-03,Tuesday,Sedentary (<5k),1413
+1786,2338,2016-05-04,Wednesday,Sedentary (<5k),1353
+0,2063,2016-05-05,Thursday,Sedentary (<5k),1440
+2091,2383,2016-05-06,Friday,Sedentary (<5k),1332
+1510,2229,2016-05-07,Saturday,Sedentary (<5k),1392
+0,2063,2016-05-08,Sunday,Sedentary (<5k),1440
+0,2063,2016-05-09,Monday,Sedentary (<5k),1440
+0,2063,2016-05-10,Tuesday,Sedentary (<5k),1440
+0,2063,2016-05-11,Wednesday,Sedentary (<5k),1440
+0,1383,2016-05-12,Thursday,Sedentary (<5k),966
+3292,1848,2016-05-08,Sunday,Sedentary (<5k),1305
+4414,1459,2016-04-12,Tuesday,Sedentary (<5k),706
+4993,1521,2016-04-13,Wednesday,Sedentary (<5k),663
+3335,1431,2016-04-14,Thursday,Sedentary (<5k),653
+3821,1444,2016-04-15,Friday,Sedentary (<5k),687
+2547,1373,2016-04-16,Saturday,Sedentary (<5k),728
+838,1214,2016-04-17,Sunday,Sedentary (<5k),1053
+3325,1419,2016-04-18,Monday,Sedentary (<5k),1062
+2424,1356,2016-04-19,Tuesday,Sedentary (<5k),785
+2467,1370,2016-04-21,Thursday,Sedentary (<5k),749
+2915,1399,2016-04-22,Friday,Sedentary (<5k),712
+3490,1401,2016-04-24,Sunday,Sedentary (<5k),704
+4729,1506,2016-04-30,Saturday,Sedentary (<5k),594
+3609,1447,2016-05-01,Sunday,Sedentary (<5k),716
+4193,1491,2016-05-07,Saturday,Sedentary (<5k),665
+254,1141,2016-05-10,Tuesday,Sedentary (<5k),1002
+3973,1696,2016-04-14,Thursday,Sedentary (<5k),1249
+3404,1610,2016-04-21,Thursday,Sedentary (<5k),1302
+4165,1725,2016-04-24,Sunday,Sedentary (<5k),1236
+3588,1654,2016-04-25,Monday,Sedentary (<5k),1280
+3409,1632,2016-04-26,Tuesday,Sedentary (<5k),1293
+1715,1481,2016-04-27,Wednesday,Sedentary (<5k),1358
+1532,1473,2016-04-28,Thursday,Sedentary (<5k),1364
+924,1410,2016-04-29,Friday,Sedentary (<5k),1395
+4571,1779,2016-04-30,Saturday,Sedentary (<5k),1206
+772,1403,2016-05-01,Sunday,Sedentary (<5k),1400
+3634,1613,2016-05-02,Monday,Sedentary (<5k),1306
+1201,1426,2016-05-04,Wednesday,Sedentary (<5k),1388
+4878,1742,2016-05-06,Friday,Sedentary (<5k),1236
+3090,1630,2016-05-09,Monday,Sedentary (<5k),1295
+2661,1125,2016-05-12,Thursday,Sedentary (<5k),830
+42,403,2016-04-29,Friday,Sedentary (<5k),2
+2524,1529,2016-04-17,Sunday,Sedentary (<5k),1272
+3516,1966,2016-04-27,Wednesday,Sedentary (<5k),1197
+4940,1897,2016-05-07,Saturday,Sedentary (<5k),1302
+4747,1788,2016-04-12,Tuesday,Sedentary (<5k),1160
+4880,1867,2016-04-20,Wednesday,Sedentary (<5k),1148
+3843,1669,2016-04-22,Friday,Sedentary (<5k),1234
+3077,1237,2016-05-01,Sunday,Sedentary (<5k),842
+746,52,2016-05-11,Wednesday,Sedentary (<5k),13
+0,1981,2016-04-13,Wednesday,Sedentary (<5k),1440
+108,2011,2016-04-14,Thursday,Sedentary (<5k),1437
+1882,2951,2016-04-15,Friday,Sedentary (<5k),1299
+1982,3051,2016-04-16,Saturday,Sedentary (<5k),1222
+16,1990,2016-04-17,Sunday,Sedentary (<5k),1438
+62,1995,2016-04-18,Monday,Sedentary (<5k),1438
+0,1980,2016-04-19,Tuesday,Sedentary (<5k),1440
+0,1980,2016-04-20,Wednesday,Sedentary (<5k),1440
+0,1980,2016-04-21,Thursday,Sedentary (<5k),1440
+0,1980,2016-04-22,Friday,Sedentary (<5k),1440
+0,1980,2016-04-23,Saturday,Sedentary (<5k),1440
+0,1980,2016-04-24,Sunday,Sedentary (<5k),1440
+0,1980,2016-04-25,Monday,Sedentary (<5k),1440
+0,1980,2016-04-26,Tuesday,Sedentary (<5k),1440
+0,1980,2016-04-27,Wednesday,Sedentary (<5k),1440
+0,1980,2016-04-28,Thursday,Sedentary (<5k),1440
+0,1980,2016-04-29,Friday,Sedentary (<5k),1440
+0,1980,2016-04-30,Saturday,Sedentary (<5k),1440
+0,1980,2016-05-01,Sunday,Sedentary (<5k),1440
+475,2207,2016-05-02,Monday,Sedentary (<5k),1350
+4496,2828,2016-05-03,Tuesday,Sedentary (<5k),950
+4369,2704,2016-05-06,Friday,Sedentary (<5k),855
+4556,2785,2016-05-09,Monday,Sedentary (<5k),1225
+3689,2645,2016-05-11,Wednesday,Sedentary (<5k),1296
+590,1120,2016-05-12,Thursday,Sedentary (<5k),721
+0,1776,2016-04-14,Thursday,Sedentary (<5k),1440
+3984,1527,2016-04-15,Friday,Sedentary (<5k),873
+4744,1884,2016-04-16,Saturday,Sedentary (<5k),724
+29,1464,2016-04-17,Sunday,Sedentary (<5k),1363
+2276,1632,2016-04-18,Monday,Sedentary (<5k),824
+3702,1792,2016-04-21,Thursday,Sedentary (<5k),1265
+4500,1886,2016-04-22,Friday,Sedentary (<5k),709
+4935,1945,2016-04-23,Saturday,Sedentary (<5k),546
+4081,1880,2016-04-24,Sunday,Sedentary (<5k),692
+1251,1593,2016-05-01,Sunday,Sedentary (<5k),836
+3672,1792,2016-05-08,Sunday,Sedentary (<5k),603
+17,257,2016-05-12,Thursday,Sedentary (<5k),0
+4660,2572,2016-04-17,Sunday,Sedentary (<5k),721
+3369,1623,2016-05-12,Thursday,Sedentary (<5k),825
+3276,2113,2016-04-12,Tuesday,Sedentary (<5k),787
+2961,2095,2016-04-13,Wednesday,Sedentary (<5k),840
+3974,2194,2016-04-14,Thursday,Sedentary (<5k),717
+3945,2180,2016-04-16,Saturday,Sedentary (<5k),716
+2268,1933,2016-04-17,Sunday,Sedentary (<5k),1219
+2064,1954,2016-04-19,Tuesday,Sedentary (<5k),895
+2072,1974,2016-04-20,Wednesday,Sedentary (<5k),841
+3809,2150,2016-04-21,Thursday,Sedentary (<5k),756
+4363,2149,2016-04-23,Saturday,Sedentary (<5k),1239
+3385,2070,2016-04-25,Monday,Sedentary (<5k),916
+4493,2203,2016-04-28,Thursday,Sedentary (<5k),762
+4676,2196,2016-04-29,Friday,Sedentary (<5k),1106
+2923,2070,2016-05-04,Wednesday,Sedentary (<5k),897
+3800,2120,2016-05-05,Thursday,Sedentary (<5k),734
+4514,2211,2016-05-06,Friday,Sedentary (<5k),809
+3915,2181,2016-05-10,Tuesday,Sedentary (<5k),783
+768,1212,2016-05-12,Thursday,Sedentary (<5k),380
+4978,1722,2016-04-13,Wednesday,Sedentary (<5k),1287
+4803,1788,2016-04-20,Wednesday,Sedentary (<5k),1218
+3428,1692,2016-05-01,Sunday,Sedentary (<5k),1121
+3755,1722,2016-05-06,Friday,Sedentary (<5k),1238
+1664,2241,2016-04-22,Friday,Sedentary (<5k),1341
+0,2017,2016-05-01,Sunday,Sedentary (<5k),1440
+2752,1240,2016-05-12,Thursday,Sedentary (<5k),241
+4832,1718,2016-04-13,Wednesday,Sedentary (<5k),647
+655,1397,2016-04-17,Sunday,Sedentary (<5k),943
+3727,1683,2016-04-18,Monday,Sedentary (<5k),622
+2713,1570,2016-04-20,Wednesday,Sedentary (<5k),598
+4112,1776,2016-04-23,Saturday,Sedentary (<5k),443
+1807,1507,2016-04-24,Sunday,Sedentary (<5k),582
+1202,1463,2016-04-30,Saturday,Sedentary (<5k),506
+4249,1698,2016-05-04,Wednesday,Sedentary (<5k),651
+1868,1494,2016-05-07,Saturday,Sedentary (<5k),902
+4926,1693,2016-05-11,Wednesday,Sedentary (<5k),628
+3121,741,2016-05-12,Thursday,Sedentary (<5k),222
+4950,2643,2016-05-06,Friday,Sedentary (<5k),1304
+0,1819,2016-05-07,Saturday,Sedentary (<5k),1440
+0,1819,2016-05-08,Sunday,Sedentary (<5k),1440
+3421,2489,2016-05-09,Monday,Sedentary (<5k),1099
+4038,1665,2016-05-11,Wednesday,Sedentary (<5k),257
+0,1496,2016-04-12,Tuesday,Sedentary (<5k),1440
+0,1496,2016-04-13,Wednesday,Sedentary (<5k),1440
+0,1496,2016-04-14,Thursday,Sedentary (<5k),1440
+0,1497,2016-04-25,Monday,Sedentary (<5k),1440
+3403,1879,2016-04-28,Thursday,Sedentary (<5k),758
+4933,2044,2016-05-02,Monday,Sedentary (<5k),1204
+0,1496,2016-05-03,Tuesday,Sedentary (<5k),1440
+2997,1902,2016-05-04,Wednesday,Sedentary (<5k),1279
+3365,1838,2016-05-06,Friday,Sedentary (<5k),673
+4477,1248,2016-05-09,Monday,Sedentary (<5k),125
+4562,2560,2016-04-12,Tuesday,Sedentary (<5k),1241
+0,2060,2016-04-21,Thursday,Sedentary (<5k),1440
+0,2664,2016-04-23,Saturday,Sedentary (<5k),1407
+0,2060,2016-04-26,Tuesday,Sedentary (<5k),1440
+0,2060,2016-04-29,Friday,Sedentary (<5k),1440
+0,0,2016-05-10,Tuesday,Sedentary (<5k),1440
+0,1841,2016-04-12,Tuesday,Sedentary (<5k),1440
+4053,2400,2016-04-13,Wednesday,Sedentary (<5k),1053
+1282,2127,2016-04-15,Friday,Sedentary (<5k),976
+4732,2225,2016-04-16,Saturday,Sedentary (<5k),1377
+2497,2067,2016-04-17,Sunday,Sedentary (<5k),1392
+0,1841,2016-04-19,Tuesday,Sedentary (<5k),1440
+0,1841,2016-04-21,Thursday,Sedentary (<5k),1440
+637,1922,2016-04-22,Friday,Sedentary (<5k),1420
+0,1841,2016-04-23,Saturday,Sedentary (<5k),1440
+2153,2053,2016-04-24,Sunday,Sedentary (<5k),1400
+0,1841,2016-04-27,Wednesday,Sedentary (<5k),1440
+703,1993,2016-04-28,Thursday,Sedentary (<5k),1410
+0,1841,2016-04-29,Friday,Sedentary (<5k),1440
+2503,2280,2016-04-30,Saturday,Sedentary (<5k),1344
+2487,2319,2016-05-01,Sunday,Sedentary (<5k),1347
+0,1841,2016-05-02,Monday,Sedentary (<5k),1440
+9,1843,2016-05-03,Tuesday,Sedentary (<5k),1439
+0,1841,2016-05-04,Wednesday,Sedentary (<5k),1440
+0,1841,2016-05-05,Thursday,Sedentary (<5k),1440
+4697,2496,2016-05-06,Friday,Sedentary (<5k),1318
+1967,1032,2016-05-07,Saturday,Sedentary (<5k),551
+1551,1466,2016-04-14,Thursday,Sedentary (<5k),862
+4188,1659,2016-05-08,Sunday,Sedentary (<5k),709
+3587,928,2016-05-12,Thursday,Sedentary (<5k),127
+4631,2076,2016-04-16,Saturday,Sedentary (<5k),1155
+3761,2051,2016-04-30,Saturday,Sedentary (<5k),1240
+0,1557,2016-05-04,Wednesday,Sedentary (<5k),1440
+0,120,2016-05-07,Saturday,Sedentary (<5k),111
+31,1635,2016-04-16,Saturday,Sedentary (<5k),1437
+0,1629,2016-04-17,Sunday,Sedentary (<5k),1440
+2817,1965,2016-04-23,Saturday,Sedentary (<5k),1350
+3520,2049,2016-04-24,Sunday,Sedentary (<5k),566
+3789,1199,2016-05-12,Thursday,Sedentary (<5k),343
+1170,1886,2016-05-01,Sunday,Sedentary (<5k),1389
+1969,1988,2016-05-02,Monday,Sedentary (<5k),1345
+4998,1505,2016-05-12,Thursday,Sedentary (<5k),839
+2672,1632,2016-04-15,Friday,Sedentary (<5k),1335
+4212,1763,2016-04-19,Tuesday,Sedentary (<5k),1276
+2824,1651,2016-04-22,Friday,Sedentary (<5k),1320
+4562,1813,2016-04-26,Tuesday,Sedentary (<5k),1299
+2718,1580,2016-04-28,Thursday,Sedentary (<5k),1393
+0,0,2016-04-30,Saturday,Sedentary (<5k),1440
+2132,2572,2016-04-17,Sunday,Sedentary (<5k),599
+3703,2741,2016-04-24,Sunday,Sedentary (<5k),734
+2946,2660,2016-04-30,Saturday,Sedentary (<5k),780
+4468,2799,2016-05-07,Saturday,Sedentary (<5k),851
+2943,2685,2016-05-08,Sunday,Sedentary (<5k),621
+4561,1976,2016-05-12,Thursday,Sedentary (<5k),433
+3135,2443,2016-04-14,Thursday,Sedentary (<5k),1306
+3430,2505,2016-04-15,Friday,Sedentary (<5k),1375
+3008,2439,2016-04-17,Sunday,Sedentary (<5k),1440
+3864,2536,2016-04-18,Monday,Sedentary (<5k),1309
+4503,2547,2016-04-25,Monday,Sedentary (<5k),1294
+4512,2596,2016-05-01,Sunday,Sedentary (<5k),1311
+3588,2516,2016-05-04,Wednesday,Sedentary (<5k),1440
+0,0,2016-05-12,Thursday,Sedentary (<5k),1440
+2564,2044,2016-04-12,Tuesday,Sedentary (<5k),831
+1320,1934,2016-04-13,Wednesday,Sedentary (<5k),806
+1219,1963,2016-04-14,Thursday,Sedentary (<5k),853
+2483,2009,2016-04-15,Friday,Sedentary (<5k),937
+244,1721,2016-04-16,Saturday,Sedentary (<5k),1428
+0,1688,2016-04-17,Sunday,Sedentary (<5k),1440
+0,1688,2016-04-18,Monday,Sedentary (<5k),1440
+0,1688,2016-04-19,Tuesday,Sedentary (<5k),1440
+3147,2188,2016-04-20,Wednesday,Sedentary (<5k),744
+144,1720,2016-04-21,Thursday,Sedentary (<5k),1431
+4068,2419,2016-04-22,Friday,Sedentary (<5k),817
+400,1799,2016-04-24,Sunday,Sedentary (<5k),1410
+0,1688,2016-04-25,Monday,Sedentary (<5k),1440
+1321,1928,2016-04-26,Tuesday,Sedentary (<5k),1360
+1758,2067,2016-04-27,Wednesday,Sedentary (<5k),900
+1619,1962,2016-05-01,Sunday,Sedentary (<5k),834
+1831,2015,2016-05-02,Monday,Sedentary (<5k),916
+2421,2297,2016-05-03,Tuesday,Sedentary (<5k),739
+2283,2067,2016-05-04,Wednesday,Sedentary (<5k),848
+0,1688,2016-05-05,Thursday,Sedentary (<5k),1440
+0,1688,2016-05-06,Friday,Sedentary (<5k),1440
+0,1688,2016-05-07,Saturday,Sedentary (<5k),1440
+0,1688,2016-05-08,Sunday,Sedentary (<5k),1440
+0,1688,2016-05-09,Monday,Sedentary (<5k),1440
+0,57,2016-05-10,Tuesday,Sedentary (<5k),48
+4790,2189,2016-05-02,Monday,Sedentary (<5k),1335
+7007,1411,2016-04-13,Wednesday,Lightly Active (5k-7.5k),1292
+5370,1463,2016-04-16,Saturday,Lightly Active (5k-7.5k),1264
+6175,1554,2016-04-17,Sunday,Lightly Active (5k-7.5k),1276
+6349,1467,2016-04-21,Thursday,Lightly Active (5k-7.5k),1254
+6076,1617,2016-04-24,Sunday,Lightly Active (5k-7.5k),1221
+6497,1492,2016-04-25,Monday,Lightly Active (5k-7.5k),1238
+6474,1655,2016-04-30,Saturday,Lightly Active (5k-7.5k),1182
+7155,1497,2016-05-02,Monday,Lightly Active (5k-7.5k),1261
+5263,2750,2016-04-15,Friday,Lightly Active (5k-7.5k),1263
+7132,2806,2016-04-18,Monday,Lightly Active (5k-7.5k),1271
+6637,2677,2016-04-23,Saturday,Lightly Active (5k-7.5k),1265
+6132,2696,2016-05-01,Sunday,Lightly Active (5k-7.5k),908
+6724,2987,2016-05-08,Sunday,Lightly Active (5k-7.5k),991
+6643,3008,2016-05-09,Monday,Lightly Active (5k-7.5k),1099
+6697,2030,2016-04-12,Tuesday,Lightly Active (5k-7.5k),1101
+5372,1827,2016-04-22,Friday,Lightly Active (5k-7.5k),1220
+6907,1992,2016-04-28,Thursday,Lightly Active (5k-7.5k),1138
+6001,2069,2016-04-23,Saturday,Lightly Active (5k-7.5k),1191
+6708,1995,2016-05-07,Saturday,Lightly Active (5k-7.5k),1269
+7222,1667,2016-04-20,Wednesday,Lightly Active (5k-7.5k),623
+6017,1576,2016-04-25,Monday,Lightly Active (5k-7.5k),821
+5933,1595,2016-04-26,Tuesday,Lightly Active (5k-7.5k),1018
+6088,1593,2016-04-27,Wednesday,Lightly Active (5k-7.5k),586
+6375,1649,2016-04-28,Thursday,Lightly Active (5k-7.5k),626
+7018,1690,2016-05-02,Monday,Lightly Active (5k-7.5k),716
+5992,1604,2016-05-03,Tuesday,Lightly Active (5k-7.5k),981
+6564,1658,2016-05-04,Wednesday,Lightly Active (5k-7.5k),530
+5528,1555,2016-05-08,Sunday,Lightly Active (5k-7.5k),610
+7275,2003,2016-04-13,Wednesday,Lightly Active (5k-7.5k),1105
+5205,1801,2016-04-15,Friday,Lightly Active (5k-7.5k),1195
+5057,1724,2016-04-16,Saturday,Lightly Active (5k-7.5k),1245
+6198,1852,2016-04-17,Sunday,Lightly Active (5k-7.5k),1191
+6559,1905,2016-04-18,Monday,Lightly Active (5k-7.5k),1173
+5997,1811,2016-04-19,Tuesday,Lightly Active (5k-7.5k),1201
+7192,1922,2016-04-20,Wednesday,Lightly Active (5k-7.5k),1146
+5583,1851,2016-04-22,Friday,Lightly Active (5k-7.5k),1174
+5079,1804,2016-04-23,Saturday,Lightly Active (5k-7.5k),1129
+7443,1878,2016-05-03,Tuesday,Lightly Active (5k-7.5k),1204
+5202,1780,2016-05-05,Thursday,Lightly Active (5k-7.5k),1206
+7379,1972,2016-05-07,Saturday,Lightly Active (5k-7.5k),1121
+5161,1821,2016-05-08,Sunday,Lightly Active (5k-7.5k),1193
+6227,1899,2016-05-10,Tuesday,Lightly Active (5k-7.5k),1150
+6424,1903,2016-05-11,Wednesday,Lightly Active (5k-7.5k),1140
+5472,1882,2016-04-17,Sunday,Lightly Active (5k-7.5k),508
+6711,2346,2016-04-19,Tuesday,Lightly Active (5k-7.5k),648
+5980,1861,2016-04-26,Tuesday,Lightly Active (5k-7.5k),732
+5439,1854,2016-04-28,Thursday,Lightly Active (5k-7.5k),764
+7286,2241,2016-04-22,Friday,Lightly Active (5k-7.5k),1028
+6873,1898,2016-04-24,Sunday,Lightly Active (5k-7.5k),1203
+7373,1907,2016-04-25,Monday,Lightly Active (5k-7.5k),1081
+7365,1780,2016-04-29,Friday,Lightly Active (5k-7.5k),1191
+7399,1739,2016-05-01,Sunday,Lightly Active (5k-7.5k),1219
+7412,1906,2016-05-03,Tuesday,Lightly Active (5k-7.5k),1070
+7063,1910,2016-05-06,Friday,Lightly Active (5k-7.5k),1065
+6440,1826,2016-05-11,Wednesday,Lightly Active (5k-7.5k),1121
+7451,1908,2016-04-15,Friday,Lightly Active (5k-7.5k),1105
+6905,1908,2016-04-16,Saturday,Lightly Active (5k-7.5k),1084
+6798,2014,2016-04-18,Monday,Lightly Active (5k-7.5k),1070
+7396,1995,2016-04-23,Saturday,Lightly Active (5k-7.5k),1115
+6731,1921,2016-04-24,Sunday,Lightly Active (5k-7.5k),1127
+5995,2010,2016-04-25,Monday,Lightly Active (5k-7.5k),1024
+5512,1972,2016-04-28,Thursday,Lightly Active (5k-7.5k),1055
+5250,1946,2016-04-30,Saturday,Lightly Active (5k-7.5k),1119
+6093,1397,2016-04-21,Thursday,Lightly Active (5k-7.5k),712
+7193,1377,2016-04-27,Wednesday,Lightly Active (5k-7.5k),714
+7114,1407,2016-04-28,Thursday,Lightly Active (5k-7.5k),804
+6132,2975,2016-05-07,Saturday,Lightly Active (5k-7.5k),1256
+5862,3089,2016-05-08,Sunday,Lightly Active (5k-7.5k),775
+5546,2926,2016-05-10,Tuesday,Lightly Active (5k-7.5k),774
+5394,2286,2016-04-12,Tuesday,Lightly Active (5k-7.5k),1276
+5974,2306,2016-04-13,Wednesday,Lightly Active (5k-7.5k),1280
+5664,1985,2016-04-15,Friday,Lightly Active (5k-7.5k),752
+6580,3073,2016-04-16,Saturday,Lightly Active (5k-7.5k),609
+7198,2496,2016-04-15,Friday,Lightly Active (5k-7.5k),711
+6155,2248,2016-04-18,Monday,Lightly Active (5k-7.5k),1247
+6831,2432,2016-04-22,Friday,Lightly Active (5k-7.5k),706
+5002,2247,2016-04-24,Sunday,Lightly Active (5k-7.5k),1196
+6326,2291,2016-04-26,Tuesday,Lightly Active (5k-7.5k),839
+7243,2361,2016-04-27,Wednesday,Lightly Active (5k-7.5k),839
+6222,2363,2016-04-30,Saturday,Lightly Active (5k-7.5k),797
+5232,2246,2016-05-01,Sunday,Lightly Active (5k-7.5k),741
+6910,2336,2016-05-02,Monday,Lightly Active (5k-7.5k),667
+5183,2123,2016-05-07,Saturday,Lightly Active (5k-7.5k),866
+7303,2423,2016-05-08,Sunday,Lightly Active (5k-7.5k),733
+5275,2281,2016-05-09,Monday,Lightly Active (5k-7.5k),641
+5135,1909,2016-04-12,Tuesday,Lightly Active (5k-7.5k),1122
+6799,1922,2016-04-14,Thursday,Lightly Active (5k-7.5k),1161
+7289,1997,2016-04-16,Saturday,Lightly Active (5k-7.5k),1112
+5401,1876,2016-04-19,Tuesday,Lightly Active (5k-7.5k),1182
+6890,2085,2016-04-23,Saturday,Lightly Active (5k-7.5k),1122
+5267,1953,2016-05-03,Tuesday,Lightly Active (5k-7.5k),1172
+5232,1842,2016-05-04,Wednesday,Lightly Active (5k-7.5k),1188
+6543,2666,2016-05-08,Sunday,Lightly Active (5k-7.5k),1019
+6435,1889,2016-05-10,Tuesday,Lightly Active (5k-7.5k),1191
+6307,1452,2016-05-12,Thursday,Lightly Active (5k-7.5k),736
+7213,2947,2016-04-12,Tuesday,Lightly Active (5k-7.5k),718
+6877,2898,2016-04-13,Wednesday,Lightly Active (5k-7.5k),777
+6506,2896,2016-04-15,Friday,Lightly Active (5k-7.5k),944
+6708,2812,2016-04-19,Tuesday,Lightly Active (5k-7.5k),757
+6530,2729,2016-04-21,Thursday,Lightly Active (5k-7.5k),901
+6108,2784,2016-04-26,Tuesday,Lightly Active (5k-7.5k),765
+7047,2908,2016-04-27,Wednesday,Lightly Active (5k-7.5k),733
+7245,2859,2016-05-02,Monday,Lightly Active (5k-7.5k),1131
+6943,2859,2016-05-06,Friday,Lightly Active (5k-7.5k),682
+5771,1831,2016-04-16,Saturday,Lightly Active (5k-7.5k),521
+5164,1747,2016-05-01,Sunday,Lightly Active (5k-7.5k),436
+6083,1762,2016-05-08,Sunday,Lightly Active (5k-7.5k),505
+5077,2551,2016-04-13,Wednesday,Lightly Active (5k-7.5k),776
+6393,3374,2016-04-25,Monday,Lightly Active (5k-7.5k),743
+5325,3088,2016-04-26,Tuesday,Lightly Active (5k-7.5k),759
+6805,3294,2016-04-27,Wednesday,Lightly Active (5k-7.5k),773
+7439,3014,2016-05-02,Monday,Lightly Active (5k-7.5k),732
+5206,2755,2016-05-04,Wednesday,Lightly Active (5k-7.5k),631
+7150,2225,2016-04-17,Sunday,Lightly Active (5k-7.5k),702
+5153,2018,2016-04-18,Monday,Lightly Active (5k-7.5k),759
+6987,2275,2016-04-30,Saturday,Lightly Active (5k-7.5k),1040
+7336,2469,2016-05-07,Saturday,Lightly Active (5k-7.5k),456
+7328,2250,2016-05-08,Sunday,Lightly Active (5k-7.5k),517
+7142,2905,2016-04-13,Wednesday,Lightly Active (5k-7.5k),1090
+6885,2766,2016-04-18,Monday,Lightly Active (5k-7.5k),1169
+7142,2839,2016-04-19,Tuesday,Lightly Active (5k-7.5k),1119
+6361,2701,2016-04-20,Wednesday,Lightly Active (5k-7.5k),1182
+6238,2796,2016-04-22,Friday,Lightly Active (5k-7.5k),1138
+5896,2703,2016-04-24,Sunday,Lightly Active (5k-7.5k),1182
+5565,2743,2016-04-27,Wednesday,Lightly Active (5k-7.5k),1153
+5731,2687,2016-04-28,Thursday,Lightly Active (5k-7.5k),1185
+6744,2843,2016-04-30,Saturday,Lightly Active (5k-7.5k),1116
+6781,2725,2016-05-02,Monday,Lightly Active (5k-7.5k),1172
+6047,2671,2016-05-03,Tuesday,Lightly Active (5k-7.5k),1200
+5832,2718,2016-05-04,Wednesday,Lightly Active (5k-7.5k),1168
+6339,2682,2016-05-05,Thursday,Lightly Active (5k-7.5k),1201
+6116,2806,2016-05-06,Friday,Lightly Active (5k-7.5k),1135
+5510,2613,2016-05-07,Saturday,Lightly Active (5k-7.5k),1213
+6277,2175,2016-05-09,Monday,Lightly Active (5k-7.5k),800
+5162,2507,2016-04-14,Thursday,Lightly Active (5k-7.5k),863
+6474,2484,2016-04-25,Monday,Lightly Active (5k-7.5k),1302
+7091,2584,2016-04-26,Tuesday,Lightly Active (5k-7.5k),1321
+5652,1718,2016-04-13,Wednesday,Lightly Active (5k-7.5k),548
+5563,1756,2016-04-15,Friday,Lightly Active (5k-7.5k),837
+5029,1705,2016-04-24,Sunday,Lightly Active (5k-7.5k),720
+5454,1740,2016-05-01,Sunday,Lightly Active (5k-7.5k),722
+5908,1850,2016-05-06,Friday,Lightly Active (5k-7.5k),717
+6815,1947,2016-05-07,Saturday,Lightly Active (5k-7.5k),745
+6722,1855,2016-05-11,Wednesday,Lightly Active (5k-7.5k),709
+5273,2098,2016-04-15,Friday,Lightly Active (5k-7.5k),1238
+5600,2225,2016-05-01,Sunday,Lightly Active (5k-7.5k),1142
+5813,2516,2016-04-13,Wednesday,Lightly Active (5k-7.5k),744
+7135,2408,2016-04-30,Saturday,Lightly Active (5k-7.5k),1281
+5234,1705,2016-04-14,Thursday,Lightly Active (5k-7.5k),1362
+5151,1829,2016-04-18,Monday,Lightly Active (5k-7.5k),1278
+6466,1931,2016-04-20,Wednesday,Lightly Active (5k-7.5k),1201
+6829,1909,2016-04-25,Monday,Lightly Active (5k-7.5k),1261
+6260,1854,2016-04-29,Friday,Lightly Active (5k-7.5k),1257
+5709,2908,2016-04-23,Saturday,Lightly Active (5k-7.5k),740
+7359,3061,2016-04-27,Wednesday,Lightly Active (5k-7.5k),676
+5417,2884,2016-04-28,Thursday,Lightly Active (5k-7.5k),711
+6175,2982,2016-04-29,Friday,Lightly Active (5k-7.5k),767
+6064,3491,2016-05-02,Monday,Lightly Active (5k-7.5k),802
+7045,3644,2016-05-06,Friday,Lightly Active (5k-7.5k),831
+6582,3586,2016-05-10,Tuesday,Lightly Active (5k-7.5k),840
+5014,2650,2016-04-12,Tuesday,Lightly Active (5k-7.5k),1237
+5571,2654,2016-04-13,Wednesday,Lightly Active (5k-7.5k),1252
+5319,2693,2016-04-16,Saturday,Lightly Active (5k-7.5k),1440
+5697,2668,2016-04-19,Tuesday,Lightly Active (5k-7.5k),1257
+5273,2647,2016-04-20,Wednesday,Lightly Active (5k-7.5k),1246
+6174,2757,2016-04-28,Thursday,Lightly Active (5k-7.5k),1209
+5843,2683,2016-05-06,Friday,Lightly Active (5k-7.5k),1250
+6117,2810,2016-05-07,Saturday,Lightly Active (5k-7.5k),1190
+5245,2748,2016-04-23,Saturday,Lightly Active (5k-7.5k),795
+6157,2780,2016-04-28,Thursday,Lightly Active (5k-7.5k),714
+7174,2896,2016-04-30,Saturday,Lightly Active (5k-7.5k),749
+9762,1745,2016-04-15,Friday,Fairly Active (7.5k-10k),726
+9705,1728,2016-04-17,Sunday,Fairly Active (7.5k-10k),539
+9819,1775,2016-04-21,Thursday,Fairly Active (7.5k-10k),838
+8163,1432,2016-04-12,Tuesday,Fairly Active (7.5k-10k),1294
+9107,1572,2016-04-14,Thursday,Fairly Active (7.5k-10k),1204
+8538,1562,2016-04-23,Saturday,Fairly Active (7.5k-10k),1213
+8367,1670,2016-04-27,Wednesday,Fairly Active (7.5k-10k),1233
+8001,2902,2016-04-13,Wednesday,Fairly Active (7.5k-10k),1259
+8757,3011,2016-04-17,Sunday,Fairly Active (7.5k-10k),1212
+9919,3123,2016-04-26,Tuesday,Fairly Active (7.5k-10k),1165
+9405,3108,2016-04-28,Thursday,Fairly Active (7.5k-10k),1157
+9787,3328,2016-05-06,Friday,Fairly Active (7.5k-10k),1054
+9167,2799,2016-05-10,Tuesday,Fairly Active (7.5k-10k),1254
+7937,2130,2016-04-14,Thursday,Fairly Active (7.5k-10k),843
+8054,2062,2016-04-21,Thursday,Fairly Active (7.5k-10k),1117
+9117,1853,2016-05-12,Thursday,Fairly Active (7.5k-10k),728
+7604,1692,2016-04-29,Friday,Fairly Active (7.5k-10k),492
+8198,1736,2016-05-06,Friday,Fairly Active (7.5k-10k),511
+8580,1698,2016-05-11,Wednesday,Fairly Active (7.5k-10k),569
+8891,1364,2016-05-12,Thursday,Fairly Active (7.5k-10k),330
+8247,1944,2016-04-18,Monday,Fairly Active (7.5k-10k),678
+7804,1946,2016-04-22,Friday,Fairly Active (7.5k-10k),781
+9471,2187,2016-04-24,Sunday,Fairly Active (7.5k-10k),584
+9482,2095,2016-04-25,Monday,Fairly Active (7.5k-10k),653
+8796,1982,2016-04-12,Tuesday,Fairly Active (7.5k-10k),1061
+7618,2004,2016-04-13,Wednesday,Fairly Active (7.5k-10k),1028
+7910,1893,2016-04-14,Thursday,Fairly Active (7.5k-10k),1109
+8482,2063,2016-04-15,Friday,Fairly Active (7.5k-10k),992
+9685,2148,2016-04-16,Saturday,Fairly Active (7.5k-10k),1087
+7762,1890,2016-04-18,Monday,Fairly Active (7.5k-10k),1122
+7948,1956,2016-04-19,Tuesday,Fairly Active (7.5k-10k),1051
+9202,2094,2016-04-20,Wednesday,Fairly Active (7.5k-10k),1035
+8859,1970,2016-04-21,Thursday,Fairly Active (7.5k-10k),1057
+9317,2021,2016-04-23,Saturday,Fairly Active (7.5k-10k),1077
+8242,1882,2016-04-26,Tuesday,Fairly Active (7.5k-10k),1124
+7913,1835,2016-04-28,Thursday,Fairly Active (7.5k-10k),1192
+8452,1830,2016-04-30,Saturday,Fairly Active (7.5k-10k),1167
+7525,1878,2016-05-02,Monday,Fairly Active (7.5k-10k),1099
+8278,2015,2016-05-04,Wednesday,Fairly Active (7.5k-10k),1020
+8314,1971,2016-05-05,Thursday,Fairly Active (7.5k-10k),1093
+8168,2096,2016-05-08,Sunday,Fairly Active (7.5k-10k),1068
+7726,1906,2016-05-09,Monday,Fairly Active (7.5k-10k),1095
+8275,1962,2016-05-10,Tuesday,Fairly Active (7.5k-10k),1067
+7566,1431,2016-05-12,Thursday,Fairly Active (7.5k-10k),720
+9715,2093,2016-04-13,Wednesday,Fairly Active (7.5k-10k),1045
+8844,2065,2016-04-14,Thursday,Fairly Active (7.5k-10k),1039
+8199,1964,2016-04-17,Sunday,Fairly Active (7.5k-10k),1105
+7711,1985,2016-04-19,Tuesday,Fairly Active (7.5k-10k),1064
+8857,2124,2016-04-21,Thursday,Fairly Active (7.5k-10k),1037
+8283,2057,2016-04-26,Tuesday,Fairly Active (7.5k-10k),1083
+7904,2095,2016-04-27,Wednesday,Fairly Active (7.5k-10k),1057
+9135,2044,2016-04-29,Friday,Fairly Active (7.5k-10k),1038
+8856,1450,2016-04-12,Tuesday,Fairly Active (7.5k-10k),777
+7641,1433,2016-04-14,Thursday,Fairly Active (7.5k-10k),801
+9010,1468,2016-04-15,Friday,Fairly Active (7.5k-10k),644
+8911,1481,2016-04-22,Friday,Fairly Active (7.5k-10k),731
+8539,3654,2016-04-12,Tuesday,Fairly Active (7.5k-10k),712
+7753,2115,2016-04-12,Tuesday,Fairly Active (7.5k-10k),1440
+8204,2135,2016-04-13,Wednesday,Fairly Active (7.5k-10k),1234
+8925,2200,2016-04-19,Tuesday,Fairly Active (7.5k-10k),604
+8954,2220,2016-04-20,Wednesday,Fairly Active (7.5k-10k),671
+9259,2314,2016-04-25,Monday,Fairly Active (7.5k-10k),544
+9899,2236,2016-04-26,Tuesday,Fairly Active (7.5k-10k),649
+7990,2175,2016-04-29,Friday,Fairly Active (7.5k-10k),624
+8221,2092,2016-04-30,Saturday,Fairly Active (7.5k-10k),695
+9261,2270,2016-05-02,Monday,Fairly Active (7.5k-10k),585
+9648,2235,2016-05-03,Tuesday,Fairly Active (7.5k-10k),669
+9524,2266,2016-05-06,Friday,Fairly Active (7.5k-10k),692
+7937,2158,2016-05-07,Saturday,Fairly Active (7.5k-10k),586
+9487,2260,2016-05-10,Tuesday,Fairly Active (7.5k-10k),555
+9129,2232,2016-05-11,Wednesday,Fairly Active (7.5k-10k),574
+8863,2998,2016-04-14,Thursday,Fairly Active (7.5k-10k),945
+8758,3066,2016-04-15,Friday,Fairly Active (7.5k-10k),837
+9461,2929,2016-04-26,Tuesday,Fairly Active (7.5k-10k),673
+9232,2979,2016-04-29,Friday,Fairly Active (7.5k-10k),1175
+9603,2899,2016-05-05,Thursday,Fairly Active (7.5k-10k),896
+7502,2421,2016-05-03,Tuesday,Fairly Active (7.5k-10k),725
+9105,2499,2016-05-11,Wednesday,Fairly Active (7.5k-10k),622
+7795,2121,2016-04-15,Friday,Fairly Active (7.5k-10k),1131
+9634,2117,2016-04-17,Sunday,Fairly Active (7.5k-10k),1110
+8940,2116,2016-04-18,Monday,Fairly Active (7.5k-10k),1080
+9601,2094,2016-04-22,Friday,Fairly Active (7.5k-10k),1122
+8563,2173,2016-04-24,Sunday,Fairly Active (7.5k-10k),1045
+8095,2225,2016-04-25,Monday,Fairly Active (7.5k-10k),993
+9148,2223,2016-04-26,Tuesday,Fairly Active (7.5k-10k),1062
+9557,2098,2016-04-27,Wednesday,Fairly Active (7.5k-10k),1087
+9451,2185,2016-04-28,Thursday,Fairly Active (7.5k-10k),985
+7833,1918,2016-04-29,Friday,Fairly Active (7.5k-10k),1096
+7891,2066,2016-05-02,Monday,Fairly Active (7.5k-10k),1057
+8237,1973,2016-05-07,Saturday,Fairly Active (7.5k-10k),1116
+9108,2131,2016-05-11,Wednesday,Fairly Active (7.5k-10k),1081
+7860,2984,2016-04-14,Thursday,Fairly Active (7.5k-10k),772
+9105,3013,2016-04-18,Monday,Fairly Active (7.5k-10k),890
+8793,3061,2016-04-20,Wednesday,Fairly Active (7.5k-10k),717
+9167,3064,2016-04-25,Monday,Fairly Active (7.5k-10k),730
+9023,3033,2016-04-28,Thursday,Fairly Active (7.5k-10k),738
+9930,3165,2016-04-29,Friday,Fairly Active (7.5k-10k),692
+9454,3145,2016-05-03,Tuesday,Fairly Active (7.5k-10k),729
+8161,3004,2016-05-04,Wednesday,Fairly Active (7.5k-10k),757
+8614,3006,2016-05-05,Thursday,Fairly Active (7.5k-10k),745
+8232,2990,2016-05-09,Monday,Fairly Active (7.5k-10k),746
+9810,3069,2016-05-11,Wednesday,Fairly Active (7.5k-10k),784
+9769,1996,2016-05-02,Monday,Fairly Active (7.5k-10k),724
+9632,1916,2016-05-06,Friday,Fairly Active (7.5k-10k),761
+8135,3405,2016-04-12,Tuesday,Fairly Active (7.5k-10k),728
+8596,4022,2016-04-14,Thursday,Fairly Active (7.5k-10k),662
+9893,3625,2016-04-18,Monday,Fairly Active (7.5k-10k),623
+8330,3192,2016-04-20,Wednesday,Fairly Active (7.5k-10k),773
+9172,3329,2016-04-22,Friday,Fairly Active (7.5k-10k),823
+7638,3152,2016-04-23,Saturday,Fairly Active (7.5k-10k),627
+9841,3580,2016-04-28,Thursday,Fairly Active (7.5k-10k),692
+7924,3544,2016-04-29,Friday,Fairly Active (7.5k-10k),739
+7550,3004,2016-05-05,Thursday,Fairly Active (7.5k-10k),1153
+8869,3841,2016-05-10,Tuesday,Fairly Active (7.5k-10k),639
+8206,2409,2016-04-22,Friday,Fairly Active (7.5k-10k),413
+7623,2305,2016-04-24,Sunday,Fairly Active (7.5k-10k),711
+9543,2450,2016-04-26,Tuesday,Fairly Active (7.5k-10k),1077
+9411,2576,2016-04-27,Wednesday,Fairly Active (7.5k-10k),417
+9592,2560,2016-04-29,Friday,Fairly Active (7.5k-10k),479
+8915,2361,2016-05-01,Sunday,Fairly Active (7.5k-10k),525
+9799,2636,2016-05-05,Thursday,Fairly Active (7.5k-10k),479
+7671,2952,2016-04-14,Thursday,Fairly Active (7.5k-10k),1077
+9501,2896,2016-04-15,Friday,Fairly Active (7.5k-10k),1112
+8301,2783,2016-04-16,Saturday,Fairly Active (7.5k-10k),1182
+7851,3171,2016-04-17,Sunday,Fairly Active (7.5k-10k),1172
+7802,2771,2016-04-25,Monday,Fairly Active (7.5k-10k),1180
+9837,3327,2016-05-01,Sunday,Fairly Active (7.5k-10k),1055
+7706,2712,2016-05-08,Sunday,Fairly Active (7.5k-10k),1189
+8294,2798,2016-04-18,Monday,Fairly Active (7.5k-10k),1233
+8059,2383,2016-04-17,Sunday,Fairly Active (7.5k-10k),1135
+8093,2284,2016-04-23,Saturday,Fairly Active (7.5k-10k),1190
+9123,2734,2016-04-14,Thursday,Fairly Active (7.5k-10k),787
+8585,2395,2016-04-15,Friday,Fairly Active (7.5k-10k),864
+9827,2743,2016-04-18,Monday,Fairly Active (7.5k-10k),1136
+9469,2463,2016-04-21,Thursday,Fairly Active (7.5k-10k),758
+9753,2846,2016-04-22,Friday,Fairly Active (7.5k-10k),762
+7881,2616,2016-04-29,Friday,Fairly Active (7.5k-10k),1198
+8564,2386,2016-05-05,Thursday,Fairly Active (7.5k-10k),1253
+9572,2735,2016-05-11,Wednesday,Fairly Active (7.5k-10k),757
+9033,2044,2016-04-12,Tuesday,Fairly Active (7.5k-10k),1244
+8053,1935,2016-04-13,Wednesday,Fairly Active (7.5k-10k),1298
+9256,1880,2016-04-16,Saturday,Fairly Active (7.5k-10k),1268
+9282,2132,2016-04-23,Saturday,Fairly Active (7.5k-10k),1193
+8905,1976,2016-04-24,Sunday,Fairly Active (7.5k-10k),1313
+7626,3635,2016-04-12,Tuesday,Fairly Active (7.5k-10k),723
+9388,3787,2016-04-20,Wednesday,Fairly Active (7.5k-10k),763
+8712,3784,2016-05-03,Tuesday,Fairly Active (7.5k-10k),822
+7875,3110,2016-05-04,Wednesday,Fairly Active (7.5k-10k),680
+8567,3783,2016-05-05,Thursday,Fairly Active (7.5k-10k),764
+8382,3721,2016-05-09,Monday,Fairly Active (7.5k-10k),772
+9143,3788,2016-05-11,Wednesday,Fairly Active (7.5k-10k),763
+8538,2883,2016-04-21,Thursday,Fairly Active (7.5k-10k),1229
+8687,2944,2016-04-22,Friday,Fairly Active (7.5k-10k),1170
+9423,3012,2016-04-23,Saturday,Fairly Active (7.5k-10k),1151
+8286,2889,2016-04-24,Sunday,Fairly Active (7.5k-10k),1188
+8469,2894,2016-05-02,Monday,Fairly Active (7.5k-10k),1440
+9217,2940,2016-05-08,Sunday,Fairly Active (7.5k-10k),1183
+9877,2947,2016-05-09,Monday,Fairly Active (7.5k-10k),1260
+8240,2846,2016-05-10,Tuesday,Fairly Active (7.5k-10k),1226
+8701,2804,2016-05-11,Wednesday,Fairly Active (7.5k-10k),1106
+8360,3101,2016-04-29,Friday,Fairly Active (7.5k-10k),634
+9733,2698,2016-04-29,Friday,Fairly Active (7.5k-10k),1207
+8064,1849,2016-05-12,Thursday,Fairly Active (7.5k-10k),770
+13162,1985,2016-04-12,Tuesday,Very Active (10k+),728
+10735,1797,2016-04-13,Wednesday,Very Active (10k+),776
+10460,1776,2016-04-14,Thursday,Very Active (10k+),1218
+12669,1863,2016-04-16,Saturday,Very Active (10k+),773
+13019,1921,2016-04-18,Monday,Very Active (10k+),1149
+15506,2035,2016-04-19,Tuesday,Very Active (10k+),775
+10544,1786,2016-04-20,Wednesday,Very Active (10k+),818
+12764,1827,2016-04-22,Friday,Very Active (10k+),1217
+14371,1949,2016-04-23,Saturday,Very Active (10k+),732
+10039,1788,2016-04-24,Sunday,Very Active (10k+),709
+15355,2013,2016-04-25,Monday,Very Active (10k+),814
+13755,1970,2016-04-26,Tuesday,Very Active (10k+),833
+18134,2159,2016-04-27,Wednesday,Very Active (10k+),1108
+13154,1898,2016-04-28,Thursday,Very Active (10k+),782
+11181,1837,2016-04-29,Friday,Very Active (10k+),815
+14673,1947,2016-04-30,Saturday,Very Active (10k+),712
+10602,1820,2016-05-01,Sunday,Very Active (10k+),730
+14727,2004,2016-05-02,Monday,Very Active (10k+),798
+15103,1990,2016-05-03,Tuesday,Very Active (10k+),816
+11100,1819,2016-05-04,Wednesday,Very Active (10k+),1179
+14070,1959,2016-05-05,Thursday,Very Active (10k+),857
+12159,1896,2016-05-06,Friday,Very Active (10k+),754
+11992,1821,2016-05-07,Saturday,Very Active (10k+),833
+10060,1740,2016-05-08,Sunday,Very Active (10k+),574
+12022,1819,2016-05-09,Monday,Very Active (10k+),835
+12207,1859,2016-05-10,Tuesday,Very Active (10k+),746
+12770,1783,2016-05-11,Wednesday,Very Active (10k+),669
+10536,1604,2016-04-18,Monday,Very Active (10k+),1214
+36019,2690,2016-05-01,Sunday,Very Active (10k+),1020
+10694,3199,2016-04-12,Tuesday,Very Active (10k+),1131
+11037,3226,2016-04-14,Thursday,Very Active (10k+),1125
+15300,3493,2016-04-16,Saturday,Very Active (10k+),1135
+11256,3300,2016-04-19,Tuesday,Very Active (10k+),1099
+18213,3846,2016-04-30,Saturday,Very Active (10k+),816
+12850,3324,2016-05-03,Tuesday,Very Active (10k+),1115
+13372,3404,2016-05-07,Saturday,Very Active (10k+),1139
+11875,2390,2016-04-12,Tuesday,Very Active (10k+),1157
+12024,2601,2016-04-13,Wednesday,Very Active (10k+),1100
+10690,2312,2016-04-14,Thursday,Very Active (10k+),1148
+11034,2525,2016-04-15,Friday,Very Active (10k+),1122
+10100,2177,2016-04-16,Saturday,Very Active (10k+),1237
+15112,2782,2016-04-17,Sunday,Very Active (10k+),1052
+14131,2770,2016-04-18,Monday,Very Active (10k+),1078
+11548,2489,2016-04-19,Tuesday,Very Active (10k+),1152
+15112,2897,2016-04-20,Wednesday,Very Active (10k+),1053
+12453,3158,2016-04-21,Thursday,Very Active (10k+),1028
+12954,2638,2016-04-22,Friday,Very Active (10k+),1105
+13481,2529,2016-04-24,Sunday,Very Active (10k+),1161
+11369,2470,2016-04-25,Monday,Very Active (10k+),1171
+10119,2793,2016-04-26,Tuesday,Very Active (10k+),1086
+10159,2463,2016-04-27,Wednesday,Very Active (10k+),1119
+10140,2296,2016-04-28,Thursday,Very Active (10k+),1123
+10245,2611,2016-04-29,Friday,Very Active (10k+),1098
+18387,2732,2016-04-30,Saturday,Very Active (10k+),1043
+10538,2380,2016-05-01,Sunday,Very Active (10k+),1142
+10379,2473,2016-05-02,Monday,Very Active (10k+),1119
+12183,2752,2016-05-03,Tuesday,Very Active (10k+),1104
+11768,2649,2016-05-04,Wednesday,Very Active (10k+),1105
+11895,2609,2016-05-05,Thursday,Very Active (10k+),1112
+10227,2498,2016-05-06,Friday,Very Active (10k+),1104
+13379,2709,2016-05-09,Monday,Very Active (10k+),1061
+12798,2797,2016-05-10,Tuesday,Very Active (10k+),1084
+13272,2544,2016-05-11,Wednesday,Very Active (10k+),1133
+12357,1916,2016-04-23,Saturday,Very Active (10k+),458
+12167,1926,2016-05-05,Thursday,Very Active (10k+),479
+10685,1869,2016-05-09,Monday,Very Active (10k+),543
+10725,2124,2016-04-12,Tuesday,Very Active (10k+),1112
+10113,2344,2016-04-12,Tuesday,Very Active (10k+),964
+10352,2038,2016-04-13,Wednesday,Very Active (10k+),676
+10129,2010,2016-04-14,Thursday,Very Active (10k+),705
+10465,2133,2016-04-15,Friday,Very Active (10k+),720
+22244,2670,2016-04-16,Saturday,Very Active (10k+),968
+10999,2198,2016-04-20,Wednesday,Very Active (10k+),1011
+10080,2048,2016-04-21,Thursday,Very Active (10k+),761
+16901,2629,2016-04-23,Saturday,Very Active (10k+),591
+11423,2194,2016-04-27,Wednesday,Very Active (10k+),623
+10035,1495,2016-04-13,Wednesday,Very Active (10k+),754
+13459,1625,2016-04-16,Saturday,Very Active (10k+),663
+10415,1529,2016-04-17,Sunday,Very Active (10k+),600
+11663,1584,2016-04-18,Monday,Very Active (10k+),605
+12414,1638,2016-04-19,Tuesday,Very Active (10k+),738
+11658,1554,2016-04-20,Wednesday,Very Active (10k+),845
+12058,1638,2016-04-23,Saturday,Very Active (10k+),724
+14112,1655,2016-04-24,Sunday,Very Active (10k+),660
+11177,1570,2016-04-25,Monday,Very Active (10k+),781
+11388,1551,2016-04-26,Tuesday,Very Active (10k+),797
+10645,1545,2016-04-29,Friday,Very Active (10k+),744
+13238,1650,2016-04-30,Saturday,Very Active (10k+),687
+10414,1501,2016-05-01,Sunday,Very Active (10k+),691
+16520,1760,2016-05-02,Monday,Very Active (10k+),713
+14335,1710,2016-05-03,Tuesday,Very Active (10k+),594
+13559,1628,2016-05-04,Wednesday,Very Active (10k+),852
+12312,1618,2016-05-05,Thursday,Very Active (10k+),680
+11677,1590,2016-05-06,Friday,Very Active (10k+),676
+11550,1574,2016-05-07,Saturday,Very Active (10k+),703
+13585,1633,2016-05-08,Sunday,Very Active (10k+),688
+14687,1667,2016-05-09,Monday,Very Active (10k+),1159
+13072,1630,2016-05-10,Tuesday,Very Active (10k+),676
+10252,3879,2016-05-04,Wednesday,Very Active (10k+),531
+11728,3429,2016-05-05,Thursday,Very Active (10k+),916
+10210,2302,2016-04-14,Thursday,Very Active (10k+),589
+10780,2324,2016-04-27,Wednesday,Very Active (10k+),680
+10817,2367,2016-04-28,Thursday,Very Active (10k+),552
+10429,2282,2016-05-04,Wednesday,Very Active (10k+),1106
+13658,2530,2016-05-05,Thursday,Very Active (10k+),957
+10378,2345,2016-05-09,Monday,Very Active (10k+),490
+10122,2955,2016-04-12,Tuesday,Very Active (10k+),1440
+10993,3092,2016-04-13,Wednesday,Very Active (10k+),1275
+11009,3274,2016-04-18,Monday,Very Active (10k+),1017
+10181,3015,2016-04-19,Tuesday,Very Active (10k+),704
+10553,3083,2016-04-20,Wednesday,Very Active (10k+),696
+10055,3069,2016-04-21,Thursday,Very Active (10k+),853
+12139,3544,2016-04-22,Friday,Very Active (10k+),945
+13236,3306,2016-04-23,Saturday,Very Active (10k+),749
+10243,2885,2016-04-24,Sunday,Very Active (10k+),584
+12961,3288,2016-04-25,Monday,Very Active (10k+),1054
+11193,3074,2016-04-27,Wednesday,Very Active (10k+),684
+10074,2969,2016-04-28,Thursday,Very Active (10k+),878
+12533,3283,2016-04-30,Saturday,Very Active (10k+),537
+10255,2926,2016-05-01,Sunday,Very Active (10k+),579
+10096,3147,2016-05-02,Monday,Very Active (10k+),935
+12727,3290,2016-05-03,Tuesday,Very Active (10k+),984
+12375,3162,2016-05-04,Wednesday,Very Active (10k+),632
+13175,3425,2016-05-06,Friday,Very Active (10k+),1100
+22770,4022,2016-05-07,Saturday,Very Active (10k+),508
+17298,3934,2016-05-08,Sunday,Very Active (10k+),576
+10218,3013,2016-05-09,Monday,Very Active (10k+),1020
+10299,3061,2016-05-10,Tuesday,Very Active (10k+),648
+10201,2954,2016-05-11,Wednesday,Very Active (10k+),858
+13743,2486,2016-04-21,Thursday,Very Active (10k+),844
+10319,2105,2016-04-30,Saturday,Very Active (10k+),1111
+10611,2262,2016-05-05,Thursday,Very Active (10k+),1048
+11451,2223,2016-05-09,Monday,Very Active (10k+),1065
+11140,3328,2016-04-16,Saturday,Very Active (10k+),556
+12692,3394,2016-04-17,Sunday,Very Active (10k+),437
+15126,3691,2016-04-23,Saturday,Very Active (10k+),469
+15050,3538,2016-04-24,Sunday,Very Active (10k+),542
+10144,3115,2016-04-30,Saturday,Very Active (10k+),728
+14370,3683,2016-05-07,Saturday,Very Active (10k+),577
+12857,3287,2016-05-08,Sunday,Very Active (10k+),1019
+10613,3172,2016-05-10,Tuesday,Very Active (10k+),701
+11596,2026,2016-04-12,Tuesday,Very Active (10k+),767
+17022,2324,2016-04-14,Thursday,Very Active (10k+),693
+16556,2254,2016-04-15,Friday,Very Active (10k+),689
+15482,2284,2016-04-19,Tuesday,Very Active (10k+),756
+12346,2066,2016-04-21,Thursday,Very Active (10k+),801
+11682,2105,2016-04-22,Friday,Very Active (10k+),781
+10946,2033,2016-04-25,Monday,Very Active (10k+),732
+11886,2093,2016-04-26,Tuesday,Very Active (10k+),750
+10538,1922,2016-04-27,Wednesday,Very Active (10k+),745
+11393,1999,2016-04-28,Thursday,Very Active (10k+),727
+12764,2169,2016-04-29,Friday,Very Active (10k+),709
+12848,2116,2016-05-03,Tuesday,Very Active (10k+),812
+14331,2156,2016-05-05,Thursday,Very Active (10k+),692
+11611,2272,2016-05-09,Monday,Very Active (10k+),667
+16358,2335,2016-05-10,Tuesday,Very Active (10k+),707
+12087,4005,2016-04-15,Friday,Very Active (10k+),695
+14269,4274,2016-04-16,Saturday,Very Active (10k+),472
+12231,4552,2016-04-17,Sunday,Very Active (10k+),525
+12574,3501,2016-04-19,Tuesday,Very Active (10k+),733
+10830,4018,2016-04-21,Thursday,Very Active (10k+),670
+15764,4392,2016-04-24,Sunday,Very Active (10k+),425
+12363,4501,2016-04-30,Saturday,Very Active (10k+),621
+13368,4546,2016-05-01,Sunday,Very Active (10k+),499
+11045,3795,2016-05-03,Tuesday,Very Active (10k+),580
+14019,2865,2016-04-15,Friday,Very Active (10k+),921
+14450,2828,2016-04-16,Saturday,Very Active (10k+),502
+11135,2606,2016-04-19,Tuesday,Very Active (10k+),425
+10449,2536,2016-04-20,Wednesday,Very Active (10k+),587
+19542,4900,2016-04-21,Thursday,Very Active (10k+),579
+11495,2651,2016-04-23,Saturday,Very Active (10k+),468
+10771,3727,2016-04-20,Wednesday,Very Active (10k+),1079
+10199,1994,2016-04-12,Tuesday,Very Active (10k+),796
+13217,2173,2016-04-16,Saturday,Very Active (10k+),741
+10145,2027,2016-04-17,Sunday,Very Active (10k+),634
+11404,2039,2016-04-18,Monday,Very Active (10k+),689
+10742,2046,2016-04-19,Tuesday,Very Active (10k+),659
+13928,2174,2016-04-20,Wednesday,Very Active (10k+),639
+11835,2179,2016-04-21,Thursday,Very Active (10k+),708
+10725,2086,2016-04-22,Friday,Very Active (10k+),659
+20031,2571,2016-04-23,Saturday,Very Active (10k+),484
+13239,2194,2016-04-25,Monday,Very Active (10k+),637
+10433,2012,2016-04-26,Tuesday,Very Active (10k+),680
+10320,2034,2016-04-27,Wednesday,Very Active (10k+),697
+12627,2182,2016-04-28,Thursday,Very Active (10k+),621
+10762,2254,2016-04-29,Friday,Very Active (10k+),645
+10081,2002,2016-04-30,Saturday,Very Active (10k+),731
+12912,2162,2016-05-02,Monday,Very Active (10k+),655
+12109,2072,2016-05-03,Tuesday,Very Active (10k+),654
+10147,2086,2016-05-04,Wednesday,Very Active (10k+),683
+10524,2066,2016-05-05,Thursday,Very Active (10k+),591
+12342,2105,2016-05-09,Monday,Very Active (10k+),607
+15448,2361,2016-05-10,Tuesday,Very Active (10k+),626
+14172,2937,2016-04-12,Tuesday,Very Active (10k+),1024
+12862,2742,2016-04-13,Wednesday,Very Active (10k+),1101
+11179,2668,2016-04-14,Thursday,Very Active (10k+),1096
+14816,2832,2016-04-18,Monday,Very Active (10k+),1077
+14194,2812,2016-04-19,Tuesday,Very Active (10k+),1066
+15566,3096,2016-04-20,Wednesday,Very Active (10k+),1000
+13744,2763,2016-04-21,Thursday,Very Active (10k+),1049
+15299,2889,2016-04-22,Friday,Very Active (10k+),1065
+11085,2667,2016-04-24,Sunday,Very Active (10k+),1021
+18229,3055,2016-04-25,Monday,Very Active (10k+),986
+15090,2939,2016-04-26,Tuesday,Very Active (10k+),978
+13541,2830,2016-04-27,Wednesday,Very Active (10k+),1041
+15128,2836,2016-04-28,Thursday,Very Active (10k+),1007
+20067,3180,2016-04-29,Friday,Very Active (10k+),961
+13041,2642,2016-05-02,Monday,Very Active (10k+),1112
+14510,2976,2016-05-03,Tuesday,Very Active (10k+),1021
+15010,2933,2016-05-05,Thursday,Very Active (10k+),1047
+11459,2553,2016-05-06,Friday,Very Active (10k+),1136
+11317,2772,2016-04-12,Tuesday,Very Active (10k+),745
+10688,2944,2016-04-19,Tuesday,Very Active (10k+),671
+14365,2997,2016-04-20,Wednesday,Very Active (10k+),797
+10091,2752,2016-04-25,Monday,Very Active (10k+),706
+10387,2781,2016-04-26,Tuesday,Very Active (10k+),726
+11107,2693,2016-04-27,Wednesday,Very Active (10k+),829
+11584,2862,2016-04-28,Thursday,Very Active (10k+),810
+14560,2995,2016-04-30,Saturday,Very Active (10k+),584
+12390,2730,2016-05-01,Sunday,Very Active (10k+),685
+10052,2754,2016-05-02,Monday,Very Active (10k+),737
+10288,2754,2016-05-03,Tuesday,Very Active (10k+),761
+10988,2655,2016-05-04,Wednesday,Very Active (10k+),843
+12461,2924,2016-05-06,Friday,Very Active (10k+),834
+12827,2739,2016-05-07,Saturday,Very Active (10k+),621
+10677,2534,2016-05-08,Sunday,Very Active (10k+),695
+13566,2960,2016-05-09,Monday,Very Active (10k+),743
+14433,2800,2016-05-10,Tuesday,Very Active (10k+),1182
+18060,3186,2016-04-12,Tuesday,Very Active (10k+),1193
+16433,3140,2016-04-13,Wednesday,Very Active (10k+),1177
+20159,3411,2016-04-14,Thursday,Very Active (10k+),1123
+20669,3410,2016-04-15,Friday,Very Active (10k+),1142
+14549,2867,2016-04-16,Saturday,Very Active (10k+),1255
+18827,3213,2016-04-17,Sunday,Very Active (10k+),1113
+17076,3133,2016-04-18,Monday,Very Active (10k+),1137
+15929,3114,2016-04-19,Tuesday,Very Active (10k+),1152
+15108,3043,2016-04-20,Wednesday,Very Active (10k+),695
+16057,3103,2016-04-21,Thursday,Very Active (10k+),1164
+10520,2655,2016-04-22,Friday,Very Active (10k+),1260
+22359,3554,2016-04-23,Saturday,Very Active (10k+),741
+22988,3577,2016-04-24,Sunday,Very Active (10k+),1096
+20500,3403,2016-04-25,Monday,Very Active (10k+),1104
+12685,2846,2016-04-26,Tuesday,Very Active (10k+),1182
+12422,2852,2016-04-27,Wednesday,Very Active (10k+),1187
+15447,3062,2016-04-28,Thursday,Very Active (10k+),1188
+12315,2794,2016-04-29,Friday,Very Active (10k+),1215
+15484,3023,2016-05-03,Tuesday,Very Active (10k+),1166
+14581,2918,2016-05-04,Wednesday,Very Active (10k+),1220
+14990,2950,2016-05-05,Thursday,Very Active (10k+),1208
+13953,2859,2016-05-06,Friday,Very Active (10k+),1245
+19769,3331,2016-05-07,Saturday,Very Active (10k+),1076
+22026,3589,2016-05-08,Sunday,Very Active (10k+),1073
+12465,2765,2016-05-09,Monday,Very Active (10k+),1214
+14810,2926,2016-05-10,Tuesday,Very Active (10k+),1219
+12209,2809,2016-05-11,Wednesday,Very Active (10k+),1189
+10204,2112,2016-04-17,Sunday,Very Active (10k+),1237
+11268,2218,2016-04-21,Thursday,Very Active (10k+),1199
+10232,2008,2016-04-27,Wednesday,Very Active (10k+),1286
+12386,4079,2016-04-13,Wednesday,Very Active (10k+),680
+13318,4163,2016-04-14,Thursday,Very Active (10k+),699
+14461,3666,2016-04-15,Friday,Very Active (10k+),729
+11207,3363,2016-04-16,Saturday,Very Active (10k+),563
+13630,4157,2016-04-18,Monday,Very Active (10k+),720
+13070,4092,2016-04-19,Tuesday,Very Active (10k+),737
+15148,4236,2016-04-21,Thursday,Very Active (10k+),677
+12200,4044,2016-04-22,Friday,Very Active (10k+),769
+12405,4005,2016-04-25,Monday,Very Active (10k+),692
+16208,3763,2016-04-26,Tuesday,Very Active (10k+),593
+11419,3369,2016-05-01,Sunday,Very Active (10k+),669
+10499,3093,2016-04-26,Tuesday,Very Active (10k+),1134
+12474,3142,2016-04-27,Wednesday,Very Active (10k+),1229
+15168,3513,2016-04-29,Friday,Very Active (10k+),1069
+10085,3164,2016-04-30,Saturday,Very Active (10k+),1093
+12015,3212,2016-05-03,Tuesday,Very Active (10k+),1440
+12427,3266,2016-05-05,Thursday,Very Active (10k+),1370
+23186,3921,2016-04-12,Tuesday,Very Active (10k+),1036
+15337,3566,2016-04-13,Wednesday,Very Active (10k+),1098
+21129,3793,2016-04-14,Thursday,Very Active (10k+),1061
+13422,3934,2016-04-15,Friday,Very Active (10k+),1052
+29326,4547,2016-04-16,Saturday,Very Active (10k+),888
+15118,3545,2016-04-17,Sunday,Very Active (10k+),1060
+11423,2761,2016-04-18,Monday,Very Active (10k+),1215
+18785,3676,2016-04-19,Tuesday,Very Active (10k+),1131
+19948,3679,2016-04-20,Wednesday,Very Active (10k+),1123
+19377,3659,2016-04-21,Thursday,Very Active (10k+),1119
+18258,3427,2016-04-22,Friday,Very Active (10k+),1141
+11200,3891,2016-04-23,Saturday,Very Active (10k+),1032
+16674,3455,2016-04-24,Sunday,Very Active (10k+),1148
+12986,3802,2016-04-25,Monday,Very Active (10k+),1101
+11101,2860,2016-04-26,Tuesday,Very Active (10k+),1157
+23629,3808,2016-04-27,Wednesday,Very Active (10k+),1104
+14890,3060,2016-04-28,Thursday,Very Active (10k+),1143
+27745,4398,2016-04-30,Saturday,Very Active (10k+),1089
+10930,2786,2016-05-01,Sunday,Very Active (10k+),1226
+10818,2817,2016-05-03,Tuesday,Very Active (10k+),1189
+18193,3477,2016-05-04,Wednesday,Very Active (10k+),1154
+14055,3052,2016-05-05,Thursday,Very Active (10k+),1170
+21727,4015,2016-05-06,Friday,Very Active (10k+),1095
+12332,4142,2016-05-07,Saturday,Very Active (10k+),1036
+10686,2847,2016-05-08,Sunday,Very Active (10k+),1174
+20226,3710,2016-05-09,Monday,Very Active (10k+),1131
+10733,2832,2016-05-10,Tuesday,Very Active (10k+),1187
+21420,3832,2016-05-11,Wednesday,Very Active (10k+),1127
