@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python environments
+.python-version
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model artifacts
+*.joblib
+*.pkl
+
+# Large databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Large compressed files
+*.zip
+*.rar
+*.7z

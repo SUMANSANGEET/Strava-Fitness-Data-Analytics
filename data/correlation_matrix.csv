@@ -1,0 +1,9 @@
+,TotalSteps,TotalDistance,VeryActiveMinutes,FairlyActiveMinutes,LightlyActiveMinutes,SedentaryMinutes,Calories,TotalMinutesAsleep
+TotalSteps,1.0,0.99,0.67,0.5,0.57,-0.33,0.59,-0.19
+TotalDistance,0.99,1.0,0.68,0.46,0.52,-0.29,0.64,-0.18
+VeryActiveMinutes,0.67,0.68,1.0,0.31,0.05,-0.16,0.62,-0.09
+FairlyActiveMinutes,0.5,0.46,0.31,1.0,0.15,-0.24,0.3,-0.25
+LightlyActiveMinutes,0.57,0.52,0.05,0.15,1.0,-0.44,0.29,0.03
+SedentaryMinutes,-0.33,-0.29,-0.16,-0.24,-0.44,1.0,-0.11,-0.6
+Calories,0.59,0.64,0.62,0.3,0.29,-0.11,1.0,-0.03
+TotalMinutesAsleep,-0.19,-0.18,-0.09,-0.25,0.03,-0.6,-0.03,1.0
