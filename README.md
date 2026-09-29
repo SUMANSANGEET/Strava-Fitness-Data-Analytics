@@ -510,7 +510,7 @@ In addition to the Streamlit app, the analysis is delivered as a **6-page intera
 ![Home](screenshots/powerbi/00_Home.png)
 
 #### 📈 Executive Overview
-![Executive Overview](screenshots/powerbi/01_Executive_Overview.png)
+![Executive Overview](screenshots/powerbi/01_Execute_Overview.png)
 
 #### 🏃 Activity Patterns
 ![Activity Patterns](screenshots/powerbi/02_Activity_Patterns.png)
