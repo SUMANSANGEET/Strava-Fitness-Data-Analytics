@@ -9,6 +9,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Visuals-3F4F75?logo=plotly)](https://plotly.com/)
 [![DuckDB](https://img.shields.io/badge/DuckDB-Analytics%20SQL-FFF000?logo=duckdb)](https://duckdb.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-F2C811?logo=powerbi&logoColor=black)](powerbi/Starva_Fitness_Data_Analytics_dashboard.pbix)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/)
 
 ---
