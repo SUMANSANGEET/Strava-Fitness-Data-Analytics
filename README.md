@@ -465,6 +465,66 @@ This can support personalized engagement and fitness-product analytics.
 
 ---
 
+Strava-Fitness-Data-Analytics/
+├── powerbi/
+│   └── Starva_Fitness_Data_Analytics_dashboard.pbix
+└── screenshots/powerbi/
+    ├── 00_Home.png              (Home.png)
+    ├── 01_Executive_Overview.png (Executive_Overview.png)
+    ├── 02_Activity_Patterns.png  (Activity_Patterns.png)
+    ├── 03_Sleep_and_Segments.png (Sleep_and_Segments.png)
+    ├── 04_Business_Insights.png  (Business_Insights.png)
+    └── 05_User_Detail.png        (User_Detail.png)
+
+---
+
+# 📊 Power BI Dashboard
+
+In addition to the Streamlit app, the analysis is delivered as a **6-page interactive Power BI report** built with **Power Query, DAX and data modeling**.
+
+📁 **Download the report:** [`powerbi/Starva_Fitness_Data_Analytics_dashboard.pbix`](powerbi/Starva_Fitness_Data_Analytics_dashboard.pbix) *(open with Power BI Desktop)*
+
+### Report Pages
+
+| # | Page | Purpose |
+|---|------|---------|
+| 00 | **Home** | Business objective, data overview, analytics stack, navigation buttons |
+| 01 | **Executive Overview** | KPI cards (users, avg steps, calories, sleep hours, sleep efficiency, sedentary minutes, 10K+ day %), steps vs calories, activity tier and step distributions |
+| 02 | **Activity Patterns** | Activity vs sedentary behavior by weekday, hourly activity intensity heatmap |
+| 03 | **Sleep & Segments** | Time in bed vs actual sleep, sleep efficiency distribution, fitness user personas, weight tracking & adoption |
+| 04 | **Business Insights** | Observation → Evidence → Business Implication narrative and executive takeaways |
+| 05 | **User Detail** | Per-user drill-through: steps, calories, sedentary minutes, sleep, weight and trends |
+
+### Interactive Features
+
+* 📅 Date range slicer
+* 🏷️ Activity Tier slicer
+* 🧩 Segment legend (Highly Active / Moderately Active / Sedentary users)
+* 🔀 Button-based page navigation
+* 🔍 Drill-through to individual users
+
+### Screenshots
+
+#### 🏠 Home
+![Home](screenshots/powerbi/00_Home.png)
+
+#### 📈 Executive Overview
+![Executive Overview](screenshots/powerbi/01_Executive_Overview.png)
+
+#### 🏃 Activity Patterns
+![Activity Patterns](screenshots/powerbi/02_Activity_Patterns.png)
+
+#### 😴 Sleep & Segments
+![Sleep and Segments](screenshots/powerbi/03_Sleep_and_Segments.png)
+
+#### 💡 Business Insights
+![Business Insights](screenshots/powerbi/04_Business_Insights.png)
+
+#### 👤 User Detail
+![User Detail](screenshots/powerbi/05_User_Detail.png)
+
+> **Note:** The Power BI report reflects a filtered view of the dataset (e.g., the Activity Tier slicer), so KPI values may differ from the Streamlit dashboard.
+
 # 📊 Key Analytical Questions
 
 The project investigates questions such as:
